@@ -3,7 +3,9 @@
 ## Day 1 - Completed 
 - Sorted Lists
 - Frequency Maps
-## Day 2 -  
+## Day 2 - Completed
+- Increasing order
+- Modify increasing order
 ## Day 3 -  
 ## Day 4 -  
 ## Day 5 -  
